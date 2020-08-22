@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # Config
-BINDIR=${HOME}/GeneWeb7/gw7/gw
-BASESDIR=${HOME}/GeneWeb7/gw7/gw/bases
-LOGSDIR=${HOME}/GeneWeb7/gw7_logs
+BINDIR=${HOME}/distribution/gw
+BASESDIR=${HOME}/distribution/gw/bases
+LOGSDIR=${HOME}/logs
 LANGUAGE=fr
 
 

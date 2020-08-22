@@ -16,8 +16,5 @@ cd /home/geneweb/source
 ocaml ./configure.ml --sosa-zarith
 make distrib
 
-# Install distribution
-mkdir -p /home/geneweb/GeneWeb7
-mv /home/geneweb/source/distribution /home/geneweb/GeneWeb7/gw7
 
 
